@@ -1,6 +1,6 @@
 alert("Aula de JavaScript");
-var nome ="Daniele"; //variável tipo string//
-var idade = 27;
+//var nome ="Daniele"; //variável tipo string//
+//var idade = 27; 
 
 //alert("Seu nome é " + nome + "sua idade é " + idade);
 
@@ -74,8 +74,9 @@ document.write(nome);
 document.close();
 */
 
-var num = prompt("Digite um numero:");
+//var num = prompt("Digite um numero:");
 
+var num = 5;
 function soma(x) {
     document.write(num * 10);
 }
