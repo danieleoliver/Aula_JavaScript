@@ -61,13 +61,21 @@ for(var i = 0; i < 10; i+=2){
 
 array.forEach(element => {
 
-}); */
+}); 
 
     //document.writeln("teste");
 
     for(var i = 0; i < 10; i+=2){
     document.write(i+ "<br/>");
-}
+}  */
+
+var nome = prompt("Digite seu nome:");
+document.write(nome);
+
+
+
+
+
 
 //teste//
 //teste//
