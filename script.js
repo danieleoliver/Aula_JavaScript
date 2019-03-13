@@ -71,6 +71,8 @@ array.forEach(element => {
 
 var nome = prompt("Digite seu nome:");
 document.write(nome);
+document.close();
+
 
 
 
