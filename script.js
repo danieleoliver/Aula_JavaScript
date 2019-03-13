@@ -63,8 +63,10 @@ array.forEach(element => {
 
 }); */
 
-for(var i = 0; i < 10; i+=2){
-    document.write(i);
+    //document.writeln("teste");
+
+    for(var i = 0; i < 10; i+=2){
+    document.write(i+ "<br/>");
 }
 
 //teste//
