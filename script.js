@@ -67,12 +67,19 @@ array.forEach(element => {
 
     for(var i = 0; i < 10; i+=2){
     document.write(i+ "<br/>");
-}  */
+}  
 
 var nome = prompt("Digite seu nome:");
 document.write(nome);
 document.close();
+*/
 
+var num = prompt("Digite um numero:");
+
+function soma(x) {
+    document.write(num * 10);
+}
+soma(num); +
 
 
 
