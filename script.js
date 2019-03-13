@@ -6,7 +6,7 @@ var idade = 27;
 
 /*function name(params) {
 
-}*/
+}
 
 function soma() {
     var n1 = 10;
@@ -20,11 +20,26 @@ function mult(v1,v2) {
     var result = v1 * v2;
     alert(result);
 }
+*/
 var x1 = 2;
 var x2 = 5;
 mult(x1,x2);
 
+if (x1 < x2 ){
 
+    alert("x1 é menor";)
+}
+else{
+    alert("x1 é diferente");
+}
+
+var cont = 0;
+while (cont < 10) {
+    alert(cont);
+    cont ++;
+
+}
+//teste//
 //teste//
 
 //comentário de 1 linha
