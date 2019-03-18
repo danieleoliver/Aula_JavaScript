@@ -1,8 +1,8 @@
 alert("Aula de JavaScript");
-//var nome ="Daniele"; //variável tipo string//
-//var idade = 27; 
+var nome ="Daniele"; //variável tipo string//
+var idade = 27; 
 
-//alert("Seu nome é " + nome + "sua idade é " + idade);
+alert("Seu nome é " + nome + "sua idade é " + idade);
 
 /*function name(params) {
 
